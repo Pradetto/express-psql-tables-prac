@@ -28,3 +28,5 @@ db.connect()
 // Models are the DB queries just return the Data
 // Controllers are the req,res then res.send whatever you need
 // Routes are just the routes and calling the controller functions
+
+//find practice project
